@@ -1,2 +1,2 @@
-# HTML-Sem-ntica
+# HTML-Semantica
 Testes com semântica em HTML.
